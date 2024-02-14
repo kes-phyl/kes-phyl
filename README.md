@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Flight display portal that displays live flight details and generates flight announcements in American Sign Language, that are streamed on multiple screens in an airport.<br><br>Utilizing Next.Js, Typescript, and AI for text-to-video translation.<br><br>I'm interested in learning data visualization using Python.
+**Hi 👋, I'm Dan Phylbert.**<br>I'm currently working on a Flight display portal that displays live flight details and generates flight announcements in American Sign Language, that are streamed on multiple screens in an airport.<br><br>Utilizing Next.Js, Typescript, and AI for text-to-video translation.<br><br>I'm interested in learning data visualization using Python.
 
 
 ## 🌐 Socials:
